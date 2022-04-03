@@ -1,5 +1,7 @@
 # Problem Set 0
 
+## 課題の概要
+
 [Problem Set 0 – CS50 for Japanese: コンピュータサイエンスの入門](https://cs50.jp/x/2021/week0/problem-set/)
 
 - プロジェクトには少なくとも2つのスプライトが必要で、そのうち少なくとも1つは猫以外のものに似せる必要があります。
