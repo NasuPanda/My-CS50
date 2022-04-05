@@ -37,7 +37,7 @@ int get_end_size(int start_size)
         n = get_int("End size: ");
     }
     while (n < start_size);
-    return n;cd 
+    return n;
 }
 
 // Calculate number of years until we reach threshold
