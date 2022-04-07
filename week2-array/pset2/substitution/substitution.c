@@ -9,6 +9,7 @@ string convert_cipher();
 
 int main(int argc, string argv[])
 {
+    // must exist command line argment
     if (argc != 2)
     {
         // Displays correct usage
