@@ -46,7 +46,7 @@ string validates_key(string key)
         return "Key must contain 26 characters.";
     }
 
-    // validates not repeated, and ahphabetic
+    // validates not repeated, and alphabetic
     for (int i=0; i < n; i++)
     {
         if (!isalpha(key[i]))
@@ -55,7 +55,7 @@ string validates_key(string key)
         }
         else
         {
-            for (int j=i+1; j < n; j++)
+            for (int j = i + 1; j < n; j++)
             {
                 if (key[i] == key[j])
                 {
