@@ -1,0 +1,17 @@
+sort1 uses: Bubble Sort
+
+How do you know?:
+バブルソートはO(n^2)/Ω(n)。以下のような理由から、sort1はバブルソートであると考えられる。
+・sort3と比較して「sorted」の実行時間が短い。
+・実行時間のばらつきが大きい。
+
+sort2 uses: Merge Sort
+
+How do you know?: 他2つのソートアルゴリズムと比べて実行時間が半分程度のため。
+
+sort3 uses: Selection Sort
+
+How do you know?
+選択ソートの実行時間はθ(n^2)。以下のような理由から、sort3は選択ソートであると考えられる。
+・sort1と比較して「sorted」の実行時間が長い。
+・どの並べ方であっても実行時間が大差無い。
