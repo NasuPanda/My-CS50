@@ -31,3 +31,31 @@ void sort_pairs(void)
 // winner 1, loser 2
 // strength: 2
 ```
+
+A
+B
+C
+A
+B
+C
+A
+B
+C
+B
+C
+A
+B
+C
+A
+C
+A
+B
+C
+A
+B
+C
+A
+B
+C
+A
+B
