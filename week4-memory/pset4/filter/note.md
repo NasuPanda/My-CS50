@@ -45,31 +45,3 @@ void grayscale(int height, int width, RGBTRIPLE image[height][width])
 ## `malloc`/`calloc`
 
 ![malloc/calloc](https://monozukuri-c.com/wp-content/uploads/2020/07/971757feb04a398f09eb5cfe7331fc42.png)
-
-i: 0 j: 0 kernel-x is -1 kernel-y is -1 
-gx: -255
-gy: -255
-i: 0 j: 1 kernel-x is 0 kernel-y is -2 
-gx: 0
-gy: -510
-i: 0 j: 2 kernel-x is 1 kernel-y is -1 
-gx: 103
-gy: -103
-i: 1 j: 0 kernel-x is -2 kernel-y is 0 
-gx: -510
-gy: 0
-i: 1 j: 1 kernel-x is 0 kernel-y is 0 
-gx: 0
-gy: 0
-i: 1 j: 2 kernel-x is 2 kernel-y is 0 
-gx: 364
-gy: 0
-i: 2 j: 0 kernel-x is -1 kernel-y is 1 
-gx: -133
-gy: 133
-i: 2 j: 1 kernel-x is 0 kernel-y is 2 
-gx: 0
-gy: 300
-i: 2 j: 2 kernel-x is 1 kernel-y is 1 
-gx: 179
-gy: 179
